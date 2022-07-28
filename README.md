@@ -12,4 +12,4 @@ This is an App I design and Develop for IT 315.
 - Xcode
 
 JSON file can be found here: <br>
-<a href="https://github.com/damoah2/JSONProjectsIT315" target="_blank">https://github.com/damoah2/JSONProjectsIT315</a>
+<a href="https://github.com/damoah2/JSONProjectsIT315" alt="link to JSON file" target="_blank">https://github.com/damoah2/JSONProjectsIT315</a>
