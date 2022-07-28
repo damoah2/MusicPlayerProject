@@ -1,0 +1,45 @@
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "D7e-He-UVT"; */
+"D7e-He-UVT.text" = "Subtitle";
+
+/* Class = "UILabel"; text = "lblArtist"; ObjectID = "PfL-fs-Pzy"; */
+"PfL-fs-Pzy.text" = "lblArtist";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Pw4-E0-yav"; */
+"Pw4-E0-yav.text" = "Title";
+
+/* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "QgU-3b-WXS"; */
+"QgU-3b-WXS.title" = "Root View Controller";
+
+/* Class = "UILabel"; text = "Current Song"; ObjectID = "UBa-zq-UqG"; */
+"UBa-zq-UqG.text" = "Current Song";
+
+/* Class = "UISplitViewController"; title = "Primary View Controller"; ObjectID = "UCf-PB-5fe"; */
+"UCf-PB-5fe.title" = "Primary View Controller";
+
+/* Class = "UIButton"; configuration.title = " Play"; ObjectID = "VIv-va-SDh"; */
+"VIv-va-SDh.configuration.title" = " Play";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "VIv-va-SDh"; */
+"VIv-va-SDh.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Next"; ObjectID = "cQK-mJ-8sJ"; */
+"cQK-mJ-8sJ.configuration.title" = "Next";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "cQK-mJ-8sJ"; */
+"cQK-mJ-8sJ.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "lblTitle"; ObjectID = "ei6-tz-EkM"; */
+"ei6-tz-EkM.text" = "lblTitle";
+
+/* Class = "UIButton"; configuration.title = "Visit Music Source Website"; ObjectID = "gjE-2c-pKI"; */
+"gjE-2c-pKI.configuration.title" = "Visit Music Source Website";
+
+/* Class = "UIButton"; normalTitle = "Visit Site"; ObjectID = "gjE-2c-pKI"; */
+"gjE-2c-pKI.normalTitle" = "Visit Site";
+
+/* Class = "UIButton"; configuration.title = "Stop"; ObjectID = "hRP-th-2Pa"; */
+"hRP-th-2Pa.configuration.title" = "Stop";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "hRP-th-2Pa"; */
+"hRP-th-2Pa.normalTitle" = "Button";
