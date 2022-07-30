@@ -11,5 +11,6 @@ This is an App I designed and developed for IT 315. This app looks through the J
 - JSON
 - Xcode
 
-JSON file can be found here: <br>
+JSON file can be found here: 
+<br>
 [https://github.com/damoah2/JSONProjectsIT315](https://github.com/damoah2/JSONProjectsIT315)
